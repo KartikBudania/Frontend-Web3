@@ -1,7 +1,8 @@
 body{
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    background-image: url(./img/blackjack.jpg);
+    background-image: url(./blackjack.jpg);
     background-size: cover;
+    background-repeat:no-repeat ;
     text-align: center;
     color: white;
     font-weight: bold;
@@ -26,4 +27,5 @@ button{
     font-weight: bold;
     margin-bottom: 4px;
     margin-top: 4px;
+    cursor: pointer;
 }
